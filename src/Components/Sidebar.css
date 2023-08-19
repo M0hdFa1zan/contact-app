@@ -1,0 +1,19 @@
+#cont {
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 3%;
+    transition: transform .2s;
+}
+
+#cont:hover {
+    transform: scale(1.1);
+}
+
+.sideb {
+    /* background-color: red; */
+    border: 1px solid grey;
+    border-bottom: none;
+    height: 90dvh
+}
